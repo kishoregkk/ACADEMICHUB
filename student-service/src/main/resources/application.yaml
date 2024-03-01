@@ -1,0 +1,14 @@
+spring:
+ application:
+  name: student-service
+ datasource:
+    url: jdbc:mysql://localhost:3306/academichub
+    username: root
+    password: 9385538677
+    driver-class-name: com.mysql.cj.jdbc.Driver
+ jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
+    hibernate:
+      ddl-auto: update
+ config:
+  import: "optional:configserver:http://localhost:8088"
