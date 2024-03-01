@@ -22,14 +22,14 @@ This microservice project aims to provide a scalable and efficient solution for 
 
 # Clone this repository:
 
-- bash
-- Copy code
-- git clone <repository-url>
-- Navigate to the project directory: 
+ bash<br>
+Copy code<br>
+git clone <repository-url><br>
+Navigate to the project directory:<br> 
 
-- bash
-- Copy code
-- cd microservice-project
+bash<br>
+Copy code<br>
+cd microservice-project<br>
 
 # Contact
 For questions or inquiries, please contact kishore G K  at kisho801@gmail.com.
